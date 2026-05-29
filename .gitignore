@@ -1,7 +1,15 @@
 # data and results files should not be synced
-johnson_alignments/alignments/
-johnson_alignments/genome/
-johnson_alignments/data/
+johnson_alignments_052026/alignments/
+johnson_alignments_052026/abundances/
+johnson_alignments_052026/genome/
+johnson_alignments_052026/data/
+johnson_alignments_052026/copy_to_onedrive.sh
+woodruff_alignments_052026/alignments/
+woodruff_alignments_052026/abundances/
+woodruff_alignments_052026/genome/
+woodruff_alignments_052026/data/
+woodruff_alignments_052026/FastQC/
+
 
 # History files
 .history/
